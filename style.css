@@ -107,6 +107,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
+    bottom: 0;
 }
 
 .mainFooter a{
